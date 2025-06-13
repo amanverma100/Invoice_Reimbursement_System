@@ -30,6 +30,11 @@ The Invoice Reimbursement System is a web-based application designed to automate
 * *Invoice Analysis*: Upload a company policy PDF and a ZIP of invoices; receive detailed reimbursement decisions.
 * *Chat Assistant*: Contextual chat interface for follow-up queries about past analyses.
 * *System Health*: Endpoint and UI to verify service availability.
+* ![WhatsApp Image 2025-06-13 at 10 10 13_4ea18750](https://github.com/user-attachments/assets/011d9f61-2d4c-4df0-a1eb-ce44bdf74d0b)
+* ![WhatsApp Image 2025-06-13 at 10 12 43_586780bd](https://github.com/user-attachments/assets/8e3b6453-3d07-4a69-a229-d06a000b84fc)
+* ![WhatsApp Image 2025-06-13 at 10 13 32_19e422bb](https://github.com/user-attachments/assets/8d5f44a2-073f-48cc-9564-b765042a177b)
+
+
 
 ## Features
 
